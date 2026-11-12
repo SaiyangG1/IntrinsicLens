@@ -1,2 +1,2 @@
 # IntrinsicLens
-An value investment tool for quick and easy investment planner
+An value investment tool for quick and easy entry & exit plan
